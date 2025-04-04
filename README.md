@@ -35,7 +35,6 @@ A Java-based application for managing insurance policies, premium payments, and 
 ## System Requirements
 
 - Java Runtime Environment
-- All dependencies are handled by Replit
 
 ## Project Structure
 
